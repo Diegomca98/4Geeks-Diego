@@ -3,24 +3,38 @@
 ## Module Project Directory
 #### 1. Prework Review
 > The Pre-work was about Python, Numpy, Pandas and Matplotlib but we understand that was a lot, let's go over some of the concepts with the rest of your cohort and mentors.
+    
+[Real State Data Clean Up - Prework Project](https://github.com/Diegomca98/4Geeks-realestate-datacleanup)
 
 #### 2. Calculus and Linear Algebra
 > Linear Algebra's Matrix and Vectors are heavily used in Machine Learning, these structures are mainly used to store manipulate high amounts of information. Also, L. algebra functions "f(x)" help understand the relationship between target variables "y" and their predictors "x".
 
+[Calculus and Algebra Problems with Python - Calculus and L. Algebra Project](https://github.com/Diegomca98/4Geeks-calculus-and-algebra)
+
 #### 3. Github
 > GitHub is where 90% of the world's code lives. Most data science libraries, large language models, and notebooks are open-source and through GitHub. The reason for this is collaboration: Today, you will collaborate like a real AI professional!
+
+[Learn in Public - Github Project](https://github.com/Diegomca98/4GeeksAcademy-GitProj)
 
 #### 4. Probability
 > A machine learning algorithm is basically all about probability, you have to predict how probable an event or data is to happen, that is why we need to go over the basic probability functions to better create our future models.
 
+[Probability Exercises Project in Python - Probability Project](https://github.com/Diegomca98/4geeks-probability)
+
 #### 5. Descriptive Statistics
 > When you have a big dataset, you cannot calculate very specific values because there is too much data, what you can do is get central tendency values like the mean, median and standard deviation and others.
+
+[Descriptive Statistics Exercises Project with Python - Descriptive Statistics Project](https://github.com/Diegomca98/4geeks-descriptive-statistics-prj)
 
 #### 6. Random Variables
 > In order to predict better, we first need to understand how our dataset values are distributed, based on that we can better identify outliers, fill missing values and do better data mining in general.
 
+[Probability Distributions Exercises Project in Python - Random Variables Project](https://github.com/Diegomca98/4geeks-randvars-probability-distribution)
+
 #### 7. Hypotesis Testing
 > Before creating an algorithm/model with your assumptions, it's recommended to use Hypothesis Testing (defining a null and alternative hypothesis) and test agains it.
+
+[Hypothesis Testing Exercises Project in Python - Hypotesis Testing Project](https://github.com/Diegomca98/4geeks-hypothesis-testing-prj)
 
 #### 8. Algorithm Optimization
 > Algorithms need time and space to run, as a machine learning engineer you should learn how to optimize your code to take the lowest amount of space without taking too much time to execute.
@@ -31,11 +45,17 @@
 #### 10. Intro to SQL
 > SQL is the language for data, all the famous database engines use it to query or manipulate the data inside the database, lets get familiar with the most basic concepts, instructions and connect to our first real database.
 
+[Connecting to a SQL Database Project Tutorial - Intro to SQL Project](https://github.com/Diegomca98/4geeks-sql-prj)
+
 #### 11. Web Scraping
 > Scraping is one of the most used sources of gathering data in the world of machine learning. This technology allows you to download almost anything publicly available on the internet, even without an API! Let's do our first scraping and learn the basics of it.
 
+[Web Scraping with Python and Beautiful Soup - Web Scraping Project](https://github.com/Diegomca98/4geeks-web-scraping-prj)
+
 #### 12. API Requests
 > The last wait to fetch or retrieve data that we will be learning during the courses is API integrations, that are millions of public API's on the internet with very valuable information. As a Machine Learning Engineer sometimes you will need to use the python request package to connect to an API and get the extra data you need.
+
+[Interacting with an API using Python - API Requests Project](https://github.com/Diegomca98/4geeks-api-request-project)
 
 #### 13. Exploratory Data Analysis
 > Find patterns in your data in order to get insights and valuable information. Use that information to make decisions and generate better predictions. If your data is garbage, the output will be garbage: Clean your data to avoid poor quality outputs.
