@@ -1,0 +1,20 @@
+# Base ----------------------------------------
+python==3.10
+jupyter
+sqlalchemy
+pymysql==1.0.2
+pandas==1.4.2
+python-dotenv
+psycopg2
+requests==2.27.1
+
+numpy>=1.18.5
+opencv
+matplotlib>=3.2.2
+ipyleaflet>=0.14.0
+sympy>=1.10.1
+
+# Machine learning ----------------------------
+scikit-learn
+bs4
+seaborn
