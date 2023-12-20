@@ -39,8 +39,12 @@
 #### 8. Algorithm Optimization
 > Algorithms need time and space to run, as a machine learning engineer you should learn how to optimize your code to take the lowest amount of space without taking too much time to execute.
 
+[Algorithm Optimization Project Machine Learning - Algorithm Optimization Project](https://github.com/Diegomca98/4geeks-algorithm-optimization-prj)
+
 #### 9. M.L. Ops
 > If you are going to be deploying your machine learning models you need to know the command line, python package manager (PIP) and the cookie cutter boilerplate (at least). Today you will get the first Machine Learning Operations lesson.
+
+[Command Line Challenge - TBD](github.com)
 
 #### 10. Intro to SQL
 > SQL is the language for data, all the famous database engines use it to query or manipulate the data inside the database, lets get familiar with the most basic concepts, instructions and connect to our first real database.
