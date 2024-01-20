@@ -44,7 +44,7 @@
 #### 9. M.L. Ops
 > If you are going to be deploying your machine learning models you need to know the command line, python package manager (PIP) and the cookie cutter boilerplate (at least). Today you will get the first Machine Learning Operations lesson.
 
-[Command Line Challenge - TBD](github.com)
+[Command Line Challenge - M.L. Ops](https://github.com/Diegomca98/4Geeks-MLops-prj)
 
 #### 10. Intro to SQL
 > SQL is the language for data, all the famous database engines use it to query or manipulate the data inside the database, lets get familiar with the most basic concepts, instructions and connect to our first real database.
