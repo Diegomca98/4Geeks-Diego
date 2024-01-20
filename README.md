@@ -64,11 +64,17 @@
 #### 13. Exploratory Data Analysis
 > Find patterns in your data in order to get insights and valuable information. Use that information to make decisions and generate better predictions. If your data is garbage, the output will be garbage: Clean your data to avoid poor quality outputs.
 
+[Data Preprocessing Project Tutorial - Exploratory Data Analysis Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/main)
+
 #### 14. Your first ML Algorithm
 > During this module you will learn the basics of machine learning, the evaluation metrics and how to optimize your ML algo. We will start our journey with logistic regressions.
 
+[Logistic Regression Project Tutorial - Your First ML Algorithm Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/main)
+
 #### 15. Linear Regression
 > Read the linear regression theory and run the code in the exploring linear regression notebook to practice. Then go to your project and predict the cost of a medical insurance using Linear Regression.
+
+[Linear Regression Project Tutorial - Linear Regression Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/main)
 
 #### 16. Regularized Linear Regression
 > It is very important to avoid overfitting, so in this lesson you will learn about regularized linear regression models, which are a common way to avoid it.
