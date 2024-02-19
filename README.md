@@ -106,6 +106,8 @@
 
 #### 23. Time Series Forecasting
 > In this lesson, we will learn how to recognize and deal with time series when they are present in our datasets. This lesson's project will be a real time competition so get all your skills ready!
+[Time Series Forecasting Project Tutorial - Time Series Forecasting](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/time-series-forecasting)
+[Time Series Forecasting Kaggle Competition - Time Series Forecasting](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/time-series-kaggle-competition)
 
 #### 24. Intro to Deep Learning
 > This is our last module on algorithms. We will close this part with a brief introduction to deep learning and neural networks so that we can learn a more complex but efficient model.
