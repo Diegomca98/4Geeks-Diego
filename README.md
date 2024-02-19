@@ -78,35 +78,44 @@
 
 #### 16. Regularized Linear Regression
 > It is very important to avoid overfitting, so in this lesson you will learn about regularized linear regression models, which are a common way to avoid it.
+
 [Regularized Linear Regression Project Tutorial - Regularized Linear Regression Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/regularized-linear-regression)
 
 #### 17. Decision Tree Algorithm
 > This is one of the most used algorithms in the industry. Decision Tree's are used for both classification and regression problems. This algorithm makes decisions by building trees with nodes, leaves and branches to make decisions.
+
 [Decision Tree Project Tutorial - Decision Tree Algorithm Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/decision-tree)
 
 #### 18. Random Forest Algorithm
 > In this module we will add some randomness to our trees and build machine learning models using Random Forest.
+
 [Random Forest Project Tutorial - Random Forest Algorithm Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/random-forest)
 
 #### 19. Boosting Algorithms
 > In this lesson, we will learn about boosting techniques, specifically about gradient descent algorithm and XGBoost (extreme gradient descent).
+
 [Boosting Algorithms Project Tutorial - Boosting Algorithms Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/boosting-algorithms)
 
 #### 20. Naive Bayes Algorithm
 > Were you wondering when are you going to apply Bayes Theorem? Now it's the time. The Naive Bayes algorithm is one of the fastest algorithm and its based in the bayes theorem. We will use it for classification and also as a brief and simple introduction to NLP, which we'll learn deeper in another module.
+
 [Naive Bayes Project Tutorial - Naive Bayes Algorithm Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/naive-bayes)
 
 #### 21. K-Nearest Neighbors
 > In this module we will learn about the k-nearest neighbors algorithm and we will dive into a very simple recommender system built with k-nearest neighbors.
+
 [K-nearest neighbors Project Tutorial - K-Nearest Neighbors Project](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/k-nearest-neighbors)
 
 #### 22. Unsupervised Learning
 > In this module we will learn about a couple of unsupervised algorithms but we will focus on k-means for clustering with a very simple project to help you understand how to group data in clusters.
+
 [K-Means Project Tutorial - Unsupervised Learning](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/k-means)
 
 #### 23. Time Series Forecasting
 > In this lesson, we will learn how to recognize and deal with time series when they are present in our datasets. This lesson's project will be a real time competition so get all your skills ready!
+
 [Time Series Forecasting Project Tutorial - Time Series Forecasting](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/time-series-forecasting)
+
 [Time Series Forecasting Kaggle Competition - Time Series Forecasting](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/time-series-kaggle-competition)
 
 #### 24. Intro to Deep Learning
