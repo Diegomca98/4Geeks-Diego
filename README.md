@@ -102,6 +102,7 @@
 
 #### 22. Unsupervised Learning
 > In this module we will learn about a couple of unsupervised algorithms but we will focus on k-means for clustering with a very simple project to help you understand how to group data in clusters.
+[K-Means Project Tutorial - Unsupervised Learning](https://github.com/Diegomca98/4geeks-ml-template-prjs/tree/k-means)
 
 #### 23. Time Series Forecasting
 > In this lesson, we will learn how to recognize and deal with time series when they are present in our datasets. This lesson's project will be a real time competition so get all your skills ready!
